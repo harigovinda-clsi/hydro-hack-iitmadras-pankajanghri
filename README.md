@@ -17,4 +17,28 @@ Participants will be provided with an Excel (.xlsx) file containing the followin
 ### Fluid density (ρ)
 ### KG (Vertical Center of Gravity)
 
+## Core Task
+Participants are required to build a computational tool that performs the following:
+## 1. Processes Geometry
+• Read and interpret the ship offset table data
+• Reconstruct the hull geometry numerically
+## 2. Performs Numerical Integration
+Using methods such as:
+• Trapezoidal Rule
+• Simpson’s Rule
+• Other suitable numerical schemes
+Required Outputs
+The computational tool must compute the following:
+## • Hydrostatics
+– Displacement (∇)
+– Waterplane Area (Aw)
+– Longitudinal Center of Buoyancy (LCB)
+– Longitudinal Center of Flotation (LCF)
+## • Stability Parameters
+– KB (Vertical Center of Buoyancy)
+– BM (Metacentric radius)
+– GM (Metacentric height)
+## • Stability Curves
+– GZ Curve (over a range of heel angles)
+– KN Curve (Bonus points)
 
